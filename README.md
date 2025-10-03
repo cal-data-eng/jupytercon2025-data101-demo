@@ -19,6 +19,15 @@ JupyterCon 2025 Data 101 Demo
     3. Verify Python version: `python --version` should output `Python 3.11.X`
 4. Install dependencies: `pip install -r requirements.txt`
 
+## Compiling the assignment with Otter Autograder
+
+The commands below, when run in the root directory of the repository, will generate a `compiled-assignment` directory with 2 subdirectories, `autograder` and `student`. The `student` directory contains the student starter code. See the [Otter docs](https://otter-grader.readthedocs.io/en/latest/otter_assign/usage.html).
+
+```sh
+cd src/proj0
+otter assign teacher/proj0.ipynb compiled-assignment/
+```
+
 <!-- TODO: had to replace !psql with !opt/homebrew/bin/psql
 
 $ psql -d postgres -U rebeccadang
