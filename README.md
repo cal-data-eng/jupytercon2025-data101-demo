@@ -29,16 +29,3 @@ JupyterCon 2025 Data 101 Demo
 4. Copy over the compiled starter code:
     1. Make sure you are still in the `teacher` directory
     2. `cp -r compiled/ ../compiled-assignment/student/queries/`
-
-<!-- TODO: turn above into a shell script? -->
-
-<!-- TODO: had to replace !psql with !opt/homebrew/bin/psql
-
-$ psql -d postgres -U rebeccadang
-replace Owner: michael references in billboard.sql to Owner: rebeccadang
-TODO: rezip billboard.zip file from billboard.sql file with correct owner?
--->
-
-<!-- TODO: windows instructions?
-local jupyterhub instructions?
- -->
