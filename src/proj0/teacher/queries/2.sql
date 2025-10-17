@@ -18,7 +18,7 @@ FROM
     hot_100
 WHERE
     week_ending >= '2023-11-01' AND
-    week_ending <= '2023-11-31' AND
+    week_ending <= '2023-11-30' AND
     rank <= 5
 ORDER BY
     artist;
