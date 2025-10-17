@@ -1,11 +1,11 @@
 # jupytercon2025-data101-demo
 
-This repository contains code from the demo of the talk [Teaching Data Engineering at Scale With Jupyter Notebooks at UC Berkeley](https://jupytercon2025.sched.com/event/28H4W?iframe=no) by Rebecca Dang, Christy Quang, Lisa Yan, Jonathan M. Ferrari, and Michael Ball, presented at [JupyterCon 2025](https://events.linuxfoundation.org/jupytercon/).
+This repository contains code from the demo of the talk [Teaching Data Engineering at Scale With Jupyter Notebooks at UC Berkeley](https://jupytercon2025.sched.com/event/28H4W?iframe=no) by Rebecca Dang, Jonathan M. Ferrari, Christy Quang, Michael Ball, and Lisa Yan, presented at [JupyterCon 2025](https://events.linuxfoundation.org/jupytercon/).
 
 ## Quick Links
 
-- Slides (TBA)
-- Demo adapted from UC Berkeley's [Data 101 Fall 2025 Project 0](https://data101.org/fa24/)
+- [Slides](https://docs.google.com/presentation/d/1JL4dE1_9KcMisyHbl3fS_dV4kb9QCe602_forIuHPR0/edit?usp=sharing)
+- Demo adapted from UC Berkeley's [Data 101 Fall 2024 Project 0](https://data101.org/fa24/)
 
 ## Workflow for Instructors
 
