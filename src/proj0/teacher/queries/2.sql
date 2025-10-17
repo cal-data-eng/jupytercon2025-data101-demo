@@ -19,6 +19,8 @@ FROM
 WHERE
     week_ending >= '2023-11-01' AND
     week_ending <= '2023-11-30' AND
+    -- Alternatively, students can use:
+    -- week_ending BETWEEN '2023-11-01' AND '2023-11-30' AND
     rank <= 5
 ORDER BY
     artist;
