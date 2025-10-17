@@ -4,8 +4,16 @@ This repository contains code from the demo of the talk [Teaching Data Engineeri
 
 ## Quick Links
 
+- Self-link to this repo: [tinyurl.com/jc25-data-eng](https://tinyurl.com/jc25-data-eng)
 - [Slides](https://docs.google.com/presentation/d/1JL4dE1_9KcMisyHbl3fS_dV4kb9QCe602_forIuHPR0/edit?usp=sharing)
 - Demo adapted from UC Berkeley's [Data 101 Fall 2024 Project 0](https://data101.org/fa24/)
+- [UC Berkeley Data 101 Course Websites](https://data101.org)
+- Got questions? Email us!
+    - Rebecca Dang (rdang@berkeley.edu)
+    - Jonathan M. Ferrari (jonathanferrari@berkeley.edu)
+    - Christy Quang (christyquang@berkeley.edu)
+    - Michael Ball (ball@berkeley.edu)
+    - Lisa Yan (yanlisa@berkeley.edu)
 
 ## Workflow for Instructors
 
