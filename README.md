@@ -48,3 +48,7 @@ To follow along with the demo during the JupyterCon talk, see the `demo` directo
     3. Copy over the compiled starter code:
         1. Make sure you are still in the `teacher` directory
         2. `cp -r compiled/ ../compiled-assignment/student/queries/`
+
+## Creating the PostgreSQL database dump
+
+If you wish to modify the Billboard database (`hot_100` and `tiktok_top_50` tables), you can do so (e.g. in the `psql` shell) and then run `dump.sh` to produce a new `billboard.sql` dump file that can then be moved into the the `src/proj0/teacher/data` directory. When running `otter assign`, it will copy over the files in `data/` into the `student` directory.
