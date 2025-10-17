@@ -1,0 +1,1 @@
+SELECT * FROM hot_100 LIMIT 25;

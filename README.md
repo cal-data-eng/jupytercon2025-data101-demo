@@ -34,6 +34,10 @@ For a high-level overview of the workflow for both instructors and students, see
     3. Verify Python version: `python --version` should output `Python 3.11.X`
 4. Install dependencies: `pip install -r requirements.txt`
 
+## Demo Student Notebook
+
+To follow along with the demo during the JupyterCon talk, see the `demo` directory and run the `demo/proj0.ipynb` notebook after following the Installation instructions.
+
 ## Compiling the assignment for students
 
 1. Navigate to the `proj0` directory: `cd src/proj0`
